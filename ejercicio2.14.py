@@ -41,3 +41,4 @@ paises = {
 
 pais_ingresado = input("Ingresá un país: ")
 print("La capital es:", paises.get(pais_ingresado, "País no encontrado"))
+
